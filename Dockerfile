@@ -1,4 +1,4 @@
-FROM debian:wheezy
+FROM debian:jessie-slim
 
 
 # Install git straight from apt
